@@ -1,0 +1,48 @@
+Tamaño: 1200
+Numero hebras: 1
+Tiempo(seg.):18.147089392
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 2
+Tiempo(seg.):9.309682185
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 3
+Tiempo(seg.):6.520895633
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 4
+Tiempo(seg.):4.931913759
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 5
+Tiempo(seg.):4.068912435
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 6
+Tiempo(seg.):3.523082024
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 7
+Tiempo(seg.):3.056590049
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 8
+Tiempo(seg.):2.634881724
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 9
+Tiempo(seg.):2.391656839
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 10
+Tiempo(seg.):2.192147053
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 11
+Tiempo(seg.):2.186671723
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 12
+Tiempo(seg.):1.962114004
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000

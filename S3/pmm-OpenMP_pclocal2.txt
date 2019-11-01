@@ -1,0 +1,16 @@
+Tamaño: 1000
+Numero hebras: 1
+Tiempo(seg.):10.231332165
+Resultado: v[0][0]=6671665.000000 || v[999][999]=6671665.000000
+Tamaño: 1000
+Numero hebras: 2
+Tiempo(seg.):4.531372872
+Resultado: v[0][0]=6671665.000000 || v[999][999]=6671665.000000
+Tamaño: 1000
+Numero hebras: 3
+Tiempo(seg.):5.447748683
+Resultado: v[0][0]=6671665.000000 || v[999][999]=6671665.000000
+Tamaño: 1000
+Numero hebras: 4
+Tiempo(seg.):5.473751572
+Resultado: v[0][0]=6671665.000000 || v[999][999]=6671665.000000

@@ -1,0 +1,36 @@
+Tamaño: 21504
+Tiempo(seg.):0.107660301
+Variable run-sched-var: estatica, tamaño chunk: 0
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.094207210
+Variable run-sched-var: estatica, tamaño chunk: 1
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.094207973
+Variable run-sched-var: estatica, tamaño chunk: 64
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.100904226
+Variable run-sched-var: dinamica, tamaño chunk: 1
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.101605135
+Variable run-sched-var: dinamica, tamaño chunk: 1
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.082060297
+Variable run-sched-var: dinamica, tamaño chunk: 64
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.118709529
+Variable run-sched-var: guided, tamaño chunk: 1
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.123052950
+Variable run-sched-var: guided, tamaño chunk: 1
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000
+Tamaño: 21504
+Tiempo(seg.):0.123864620
+Variable run-sched-var: guided, tamaño chunk: 64
+Resultado: v[0]=66295132288.007767 || v[21504]=430.070000

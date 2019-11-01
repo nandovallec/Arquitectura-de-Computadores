@@ -1,0 +1,16 @@
+Tamaño: 1200
+Numero hebras: 1
+Tiempo(seg.):19.967902692
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 2
+Tiempo(seg.):9.291343974
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 3
+Tiempo(seg.):9.301718267
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
+Tamaño: 1200
+Numero hebras: 4
+Tiempo(seg.):9.344617954
+Resultado: v[0][0]=11527198.000000 || v[1199][1199]=11527198.000000
